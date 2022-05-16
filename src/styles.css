@@ -1,0 +1,9 @@
+.main-class{
+    left: 50%;
+    top: 50%;
+    height: 300px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    line-height: 30px;
+}
